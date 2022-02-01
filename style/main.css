@@ -1,0 +1,36 @@
+body {
+  font-family: 'Rubik', sans-serif;
+  background: -webkit-gradient(linear, left top, right top, from(#4568dc), to(#62ee81));
+  background: linear-gradient(to right, #4568dc, #62ee81);
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  margin-top: 10%;
+}
+
+.header-generator {
+  color: #FFFFFF;
+  background-color: #d3d0d0;
+}
+
+.hasil-style {
+  width: 91.9%;
+  font-size: medium;
+}
+
+.input-number {
+  width: 77.3%;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.include-section {
+  background-color: #62ee81;
+}
+
+.btn-generate {
+  width: 100%;
+}
+/*# sourceMappingURL=main.css.map */
